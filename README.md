@@ -11,16 +11,28 @@ To write a program to implement the the Logistic Regression Model to Predict the
 Steps to do:
 
 Step 1: Import Required Libraries
+
 Step 2: Load the Dataset
+
 Step 3: Copy Data & Drop Unwanted Columns
+
 Step 4: Check Data Quality
+
 Step 5: Encode Categorical Variables
+
 Step 6: Define Features (X) and Target (y)
+
 Step 7: Split into Training and Testing Sets
+
 Step 8: Build and Train Logistic Regression Model
+
 Step 9: Make Predictions
+
 Step 10: Evaluate the Model
+
 Step 11: Predict for a New Student
+
+
 
 
 ## Program:
